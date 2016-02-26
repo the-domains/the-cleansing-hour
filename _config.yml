@@ -1,0 +1,28 @@
+name: The Cleansing Hour
+favicon: null
+layout_spectrum: 0.5404621295165271
+typography_spectrum: 0.9317694399505854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25041689071804285
+  lightness: 0.038043840089812875
+  saturation: 0.17769713909365237
+  rhythmicContrast: 0.9143824432976544
+purpose: []
